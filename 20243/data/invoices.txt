@@ -1,11 +1,8 @@
---- Invoice 1 ---
-Invoice #: INV-1001
-Date: 08/01/2025
-Bill To: Alice Morgan
-Email: alice.morgan@abc.com
-Amount Due: $1,200.00
-Due Date: 08/15/2025
-
+Invoice Number,Date,Customer Name,Email,Amount,Due Date,Phone
+NW-1801,08/01/2025,Alice Morgan,aile.com/pappabe.com,"$1,200.00",08/15/2025,
+2025-11N-002,August 2, 2025,John Saitin,,$500,September 2, 2025,"(559) 121-4567"
+803-2025,2025-08-03,Mary Johnson,Mary.J@example.org,$50,2025/08/20,
+IDV-9094,410 Aug 2025,Rick Dalton,rclcd@pollywood.net,$500,1300 Aug 2025,
 --- Invoice 2 ---
 Invoice Number: 2025-INV-002
 Customer: John Smith
